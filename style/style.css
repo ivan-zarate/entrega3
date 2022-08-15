@@ -1,0 +1,21 @@
+.estilo ::placeholder{
+    color: white;
+}
+.productos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.productos div{
+    padding: 10px;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.productos ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin: 10px;
+}
